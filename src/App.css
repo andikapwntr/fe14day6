@@ -1,4 +1,32 @@
-.App {
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  padding-left: 20px;
+
+}
+
+.btn{
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+  background-color: lightcoral;
+  border: none;
+  color:  black;
+}
+.btn1{
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+  background-color: lightgreen;
+  border: none;
+  color: black;
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +63,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
